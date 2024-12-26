@@ -4,7 +4,7 @@ body{
     header{
         color: white;
 
-        background-image: url(./public/images/backgroundhead.png);
+        background-image: url(./images/backgroundhead.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
